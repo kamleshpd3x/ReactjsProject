@@ -59,6 +59,9 @@ function App() {
         }}
         />
       </div>
+      <div>
+        <h3>just for fun</h3>
+      </div>
     </div>
     </div>
     
