@@ -61,6 +61,7 @@ function App() {
       </div>
       <div>
         <h3>just for fun</h3>
+        <h2>another</h2>
       </div>
     </div>
     </div>
